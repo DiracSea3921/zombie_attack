@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 215af4846f90443c9954fe94f0d05263
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle (left)
+    100002: ankle (right)
+    100004: arm (left)
+    100006: arm (right)
+    100008: baboon
+    100010: //RootNode
+    100012: chest
+    100014: CNTRL Chest
+    100016: CNTRL Ear (left)
+    100018: CNTRL Ear (righ)
+    100020: CNTRL Elbow (left)
+    100022: CNTRL Elbow (right)
+    100024: CNTRL Head
+    100026: CNTRL Hip
+    100028: CNTRL IK Arm (left)
+    100030: CNTRL IK Arm (right)
+    100032: CNTRL IK Leg (left)
+    100034: CNTRL IK Leg (right)
+    100036: CNTRL Knee (left)
+    100038: CNTRL Knee (right)
+    100040: CNTRL Mouth
+    100042: CNTRL Spine
+    100044: CNTRL Tail
+    100046: 'CNTRL Tail '
+    100048: CNTRL Tail  1
+    100050: CNTRL Tail  2
+    100052: CNTRL Tail  3
+    100054: CNTRL Tail  4
+    100056: CNTRL Tail  5
+    100058: earBase (left)
+    100060: earBase (right)
+    100062: earTip (left)
+    100064: earTip (right)
+    100066: elbow (left)
+    100068: elbow (right)
+    100070: finger (left)
+    100072: finger (right)
+    100074: FullBodyIK
+    100076: 'FullBodyIK '
+    100078: FullBodyIK  1
+    100080: FullBodyIK  2
+    100082: head
+    100084: hip
+    100086: knee (left)
+    100088: knee (right)
+    100090: leg (left)
+    100092: leg (right)
+    100094: lips
+    100096: Master
+    100098: mouth
+    100100: NULL Back
+    100102: NULL Front
+    100104: shoulder (left)
+    100106: shoulder (right)
+    100108: spine
+    100110: tail
+    100112: 'tail '
+    100114: tail  1
+    100116: tail  2
+    100118: tail  3
+    100120: tail  4
+    100122: tail  5
+    100124: tailBase
+    100126: Texture Group
+    100128: thigh (eft)
+    100130: thigh (right)
+    100132: toes (left)
+    100134: toes (right)
+    100136: wrist (left)
+    100138: wrist (right)
+    100140: 'FullBodyIK  '
+    100142: FullBodyIK   1
+    100144: 'tail  '
+    100146: tail   1
+    100148: tail   2
+    100150: tail   3
+    100152: tail   4
+    400000: ankle (left)
+    400002: ankle (right)
+    400004: arm (left)
+    400006: arm (right)
+    400008: baboon
+    400010: //RootNode
+    400012: chest
+    400014: CNTRL Chest
+    400016: CNTRL Ear (left)
+    400018: CNTRL Ear (righ)
+    400020: CNTRL Elbow (left)
+    400022: CNTRL Elbow (right)
+    400024: CNTRL Head
+    400026: CNTRL Hip
+    400028: CNTRL IK Arm (left)
+    400030: CNTRL IK Arm (right)
+    400032: CNTRL IK Leg (left)
+    400034: CNTRL IK Leg (right)
+    400036: CNTRL Knee (left)
+    400038: CNTRL Knee (right)
+    400040: CNTRL Mouth
+    400042: CNTRL Spine
+    400044: CNTRL Tail
+    400046: 'CNTRL Tail '
+    400048: CNTRL Tail  1
+    400050: CNTRL Tail  2
+    400052: CNTRL Tail  3
+    400054: CNTRL Tail  4
+    400056: CNTRL Tail  5
+    400058: earBase (left)
+    400060: earBase (right)
+    400062: earTip (left)
+    400064: earTip (right)
+    400066: elbow (left)
+    400068: elbow (right)
+    400070: finger (left)
+    400072: finger (right)
+    400074: FullBodyIK
+    400076: 'FullBodyIK '
+    400078: FullBodyIK  1
+    400080: FullBodyIK  2
+    400082: head
+    400084: hip
+    400086: knee (left)
+    400088: knee (right)
+    400090: leg (left)
+    400092: leg (right)
+    400094: lips
+    400096: Master
+    400098: mouth
+    400100: NULL Back
+    400102: NULL Front
+    400104: shoulder (left)
+    400106: shoulder (right)
+    400108: spine
+    400110: tail
+    400112: 'tail '
+    400114: tail  1
+    400116: tail  2
+    400118: tail  3
+    400120: tail  4
+    400122: tail  5
+    400124: tailBase
+    400126: Texture Group
+    400128: thigh (eft)
+    400130: thigh (right)
+    400132: toes (left)
+    400134: toes (right)
+    400136: wrist (left)
+    400138: wrist (right)
+    400140: 'FullBodyIK  '
+    400142: FullBodyIK   1
+    400144: 'tail  '
+    400146: tail   1
+    400148: tail   2
+    400150: tail   3
+    400152: tail   4
+    4300000: baboon
+    7400000: Idle
+    9500000: //RootNode
+    13700000: baboon
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: modo_Anim
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: hip
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

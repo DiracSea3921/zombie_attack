@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: c0dc18dac4a9644c08b1c66ae7bb430b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BackFoot_L
+    100002: 'BackFoot_L '
+    100004: BackFoot_R
+    100006: 'BackFoot_R '
+    100008: BackFootEnd_L
+    100010: BackFootEnd_R
+    100012: BackKnee_L
+    100014: 'BackKnee_L '
+    100016: BackKnee_R
+    100018: 'BackKnee_R '
+    100020: BackLeg_L
+    100022: BackLeg_R
+    100024: BackLegRoot_L
+    100026: BackLegRoot_R
+    100028: Controls
+    100030: Ear2_L
+    100032: 'Ear2_L '
+    100034: Ear2_R
+    100036: 'Ear2_R '
+    100038: Ear_L
+    100040: 'Ear_L '
+    100042: Ear_R
+    100044: 'Ear_R '
+    100046: EarEnd_L
+    100048: EarEnd_R
+    100050: Elephant
+    100052: //RootNode
+    100054: FrontFoot_L
+    100056: 'FrontFoot_L '
+    100058: FrontFoot_R
+    100060: 'FrontFoot_R '
+    100062: FrontFootEnd_L
+    100064: FrontFootEnd_R
+    100066: FrontKnee_L
+    100068: 'FrontKnee_L '
+    100070: FrontKnee_R
+    100072: 'FrontKnee_R '
+    100074: FrontLeg_L
+    100076: FrontLeg_R
+    100078: FrontLeg_Root_L
+    100080: FrontLeg_Root_R
+    100082: FullBodyIK
+    100084: 'FullBodyIK '
+    100086: FullBodyIK  1
+    100088: FullBodyIK  2
+    100090: Head
+    100092: 'Head '
+    100094: Hips
+    100096: 'Hips '
+    100098: Joints
+    100100: Master
+    100102: Neck
+    100104: 'Neck '
+    100106: Spine
+    100108: 'Spine '
+    100110: Spine2
+    100112: 'Spine2 '
+    100114: Tail
+    100116: 'Tail '
+    100118: Tail2
+    100120: 'Tail2 '
+    100122: Tail3
+    100124: 'Tail3 '
+    100126: TailEnd
+    100128: Trunk
+    100130: 'Trunk '
+    100132: Trunk2
+    100134: 'Trunk2 '
+    100136: Trunk3
+    100138: 'Trunk3 '
+    100140: Trunk4
+    100142: 'Trunk4 '
+    100144: TrunkEnd
+    100146: 'FullBodyIK  '
+    100148: FullBodyIK   1
+    400000: BackFoot_L
+    400002: 'BackFoot_L '
+    400004: BackFoot_R
+    400006: 'BackFoot_R '
+    400008: BackFootEnd_L
+    400010: BackFootEnd_R
+    400012: BackKnee_L
+    400014: 'BackKnee_L '
+    400016: BackKnee_R
+    400018: 'BackKnee_R '
+    400020: BackLeg_L
+    400022: BackLeg_R
+    400024: BackLegRoot_L
+    400026: BackLegRoot_R
+    400028: Controls
+    400030: Ear2_L
+    400032: 'Ear2_L '
+    400034: Ear2_R
+    400036: 'Ear2_R '
+    400038: Ear_L
+    400040: 'Ear_L '
+    400042: Ear_R
+    400044: 'Ear_R '
+    400046: EarEnd_L
+    400048: EarEnd_R
+    400050: Elephant
+    400052: //RootNode
+    400054: FrontFoot_L
+    400056: 'FrontFoot_L '
+    400058: FrontFoot_R
+    400060: 'FrontFoot_R '
+    400062: FrontFootEnd_L
+    400064: FrontFootEnd_R
+    400066: FrontKnee_L
+    400068: 'FrontKnee_L '
+    400070: FrontKnee_R
+    400072: 'FrontKnee_R '
+    400074: FrontLeg_L
+    400076: FrontLeg_R
+    400078: FrontLeg_Root_L
+    400080: FrontLeg_Root_R
+    400082: FullBodyIK
+    400084: 'FullBodyIK '
+    400086: FullBodyIK  1
+    400088: FullBodyIK  2
+    400090: Head
+    400092: 'Head '
+    400094: Hips
+    400096: 'Hips '
+    400098: Joints
+    400100: Master
+    400102: Neck
+    400104: 'Neck '
+    400106: Spine
+    400108: 'Spine '
+    400110: Spine2
+    400112: 'Spine2 '
+    400114: Tail
+    400116: 'Tail '
+    400118: Tail2
+    400120: 'Tail2 '
+    400122: Tail3
+    400124: 'Tail3 '
+    400126: TailEnd
+    400128: Trunk
+    400130: 'Trunk '
+    400132: Trunk2
+    400134: 'Trunk2 '
+    400136: Trunk3
+    400138: 'Trunk3 '
+    400140: Trunk4
+    400142: 'Trunk4 '
+    400144: TrunkEnd
+    400146: 'FullBodyIK  '
+    400148: FullBodyIK   1
+    4300000: Elephant
+    7400000: Attack
+    9500000: //RootNode
+    13700000: Elephant
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: modo_Anim
+      firstFrame: 0
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Hips
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
