@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: a9fcf044353d947c48a44d76753d7106
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BackFoot_R
+    100002: 'BackFoot_R '
+    100004: BackFootGoal_L
+    100006: BackFootGoal_R
+    100008: BackKnee_L
+    100010: BackKnee_R
+    100012: BackLeg_L
+    100014: BackLeg_R
+    100016: BackLegAnkle_L
+    100018: BackLegAnkle_R
+    100020: BackLegFoot_L
+    100022: BackLegFoot_R
+    100024: BackLegFootEnd_L
+    100026: BackLegFootEnd_R
+    100028: BackLegKnee_L
+    100030: BackLegKnee_R
+    100032: BackLegRoot_L
+    100034: BackLegRoot_R
+    100036: Controls
+    100038: Ear_L
+    100040: Ear_R
+    100042: EarEnd_L
+    100044: EarEnd_R
+    100046: FrontFootGoal_L
+    100048: FrontFootGoal_R
+    100050: FrontKnee_L
+    100052: FrontKnee_R
+    100054: FrontLeg_L
+    100056: FrontLeg_R
+    100058: FrontLegAnkle_L
+    100060: FrontLegAnkle_R
+    100062: FrontLegFoot_L
+    100064: FrontLegFoot_R
+    100066: FrontLegFootEnd_L
+    100068: FrontLegFootEnd_R
+    100070: FrontLegKnee_L
+    100072: FrontLegKnee_R
+    100074: FrontLegRoot_L
+    100076: FrontLegRoot_R
+    100078: FullBodyIK
+    100080: 'FullBodyIK '
+    100082: FullBodyIK  1
+    100084: FullBodyIK  2
+    100086: Head
+    100088: 'Head '
+    100090: Hips
+    100092: 'Hips '
+    100094: Joints
+    100096: Master
+    100098: Mouth_Bottom
+    100100: Mouth_Top
+    100102: MouthBottom
+    100104: MouthBottomEnd
+    100106: MouthTop
+    100108: MouthTopEnd
+    100110: Neck
+    100112: 'Neck '
+    100114: Spine
+    100116: 'Spine '
+    100118: Spine2
+    100120: 'Spine2 '
+    100122: Spine3
+    100124: 'Spine3 '
+    100126: Tail
+    100128: Tail1
+    100130: Tail2
+    100132: 'Tail2 '
+    100134: Tail3
+    100136: 'Tail3 '
+    100138: Tail4
+    100140: 'Tail4 '
+    100142: TailEnd
+    100144: Texture Group
+    100146: Tiger
+    100148: //RootNode
+    100150: Camera
+    100152: 'FullBodyIK  '
+    100154: FullBodyIK   1
+    400000: BackFoot_R
+    400002: 'BackFoot_R '
+    400004: BackFootGoal_L
+    400006: BackFootGoal_R
+    400008: BackKnee_L
+    400010: BackKnee_R
+    400012: BackLeg_L
+    400014: BackLeg_R
+    400016: BackLegAnkle_L
+    400018: BackLegAnkle_R
+    400020: BackLegFoot_L
+    400022: BackLegFoot_R
+    400024: BackLegFootEnd_L
+    400026: BackLegFootEnd_R
+    400028: BackLegKnee_L
+    400030: BackLegKnee_R
+    400032: BackLegRoot_L
+    400034: BackLegRoot_R
+    400036: Controls
+    400038: Ear_L
+    400040: Ear_R
+    400042: EarEnd_L
+    400044: EarEnd_R
+    400046: FrontFootGoal_L
+    400048: FrontFootGoal_R
+    400050: FrontKnee_L
+    400052: FrontKnee_R
+    400054: FrontLeg_L
+    400056: FrontLeg_R
+    400058: FrontLegAnkle_L
+    400060: FrontLegAnkle_R
+    400062: FrontLegFoot_L
+    400064: FrontLegFoot_R
+    400066: FrontLegFootEnd_L
+    400068: FrontLegFootEnd_R
+    400070: FrontLegKnee_L
+    400072: FrontLegKnee_R
+    400074: FrontLegRoot_L
+    400076: FrontLegRoot_R
+    400078: FullBodyIK
+    400080: 'FullBodyIK '
+    400082: FullBodyIK  1
+    400084: FullBodyIK  2
+    400086: Head
+    400088: 'Head '
+    400090: Hips
+    400092: 'Hips '
+    400094: Joints
+    400096: Master
+    400098: Mouth_Bottom
+    400100: Mouth_Top
+    400102: MouthBottom
+    400104: MouthBottomEnd
+    400106: MouthTop
+    400108: MouthTopEnd
+    400110: Neck
+    400112: 'Neck '
+    400114: Spine
+    400116: 'Spine '
+    400118: Spine2
+    400120: 'Spine2 '
+    400122: Spine3
+    400124: 'Spine3 '
+    400126: Tail
+    400128: Tail1
+    400130: Tail2
+    400132: 'Tail2 '
+    400134: Tail3
+    400136: 'Tail3 '
+    400138: Tail4
+    400140: 'Tail4 '
+    400142: TailEnd
+    400144: Texture Group
+    400146: Tiger
+    400148: //RootNode
+    400150: Camera
+    400152: 'FullBodyIK  '
+    400154: FullBodyIK   1
+    4300000: Tiger
+    7400000: Idle_Look
+    9500000: //RootNode
+    13700000: Tiger
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle_Look
+      takeName: modo_Anim
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,92 @@
+fileFormatVersion: 2
+guid: 965a0b7675167204ab74dfd021f80b74
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: worgen_windmill_01_[0]_Stand_14138
+    100004: worgen_windmill_01_[0]_Stand_14138 1
+    100006: worgen_windmill_01_[0]_Stand_14138_bone_0
+    100008: worgen_windmill_01_[0]_Stand_14138_bone_1
+    100010: worgen_windmill_01_[0]_Stand_14138_bone_10
+    100012: worgen_windmill_01_[0]_Stand_14138_bone_2
+    100014: worgen_windmill_01_[0]_Stand_14138_bone_3
+    100016: worgen_windmill_01_[0]_Stand_14138_bone_4
+    100018: worgen_windmill_01_[0]_Stand_14138_bone_5
+    100020: worgen_windmill_01_[0]_Stand_14138_bone_6
+    100022: worgen_windmill_01_[0]_Stand_14138_bone_7
+    100024: worgen_windmill_01_[0]_Stand_14138_bone_8
+    100026: worgen_windmill_01_[0]_Stand_14138_bone_9
+    400000: //RootNode
+    400002: worgen_windmill_01_[0]_Stand_14138
+    400004: worgen_windmill_01_[0]_Stand_14138 1
+    400006: worgen_windmill_01_[0]_Stand_14138_bone_0
+    400008: worgen_windmill_01_[0]_Stand_14138_bone_1
+    400010: worgen_windmill_01_[0]_Stand_14138_bone_10
+    400012: worgen_windmill_01_[0]_Stand_14138_bone_2
+    400014: worgen_windmill_01_[0]_Stand_14138_bone_3
+    400016: worgen_windmill_01_[0]_Stand_14138_bone_4
+    400018: worgen_windmill_01_[0]_Stand_14138_bone_5
+    400020: worgen_windmill_01_[0]_Stand_14138_bone_6
+    400022: worgen_windmill_01_[0]_Stand_14138_bone_7
+    400024: worgen_windmill_01_[0]_Stand_14138_bone_8
+    400026: worgen_windmill_01_[0]_Stand_14138_bone_9
+    4300000: worgen_windmill_01_[0]_Stand_14138
+    7400000: Stand
+    7400002: Stand1
+    9500000: //RootNode
+    13700000: worgen_windmill_01_[0]_Stand_14138
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

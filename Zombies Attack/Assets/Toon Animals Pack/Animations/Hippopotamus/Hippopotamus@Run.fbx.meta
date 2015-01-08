@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 7bf6fe4718a374721b6d832beaff9b6f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle(left)
+    100002: ankle(right)
+    100004: arm(left)
+    100006: arm(right)
+    100008: chest
+    100010: CNTRL Chest
+    100012: CNTRL Ear (left)
+    100014: CNTRL Ear (right)
+    100016: CNTRL Elbow (left)
+    100018: CNTRL Elbow (right)
+    100020: CNTRL Head
+    100022: CNTRL Hip
+    100024: CNTRL IK Arm (left)
+    100026: CNTRL IK Arm (right)
+    100028: CNTRL IK Leg (left)
+    100030: CNTRL IK Leg (right)
+    100032: CNTRL Knee (left)
+    100034: CNTRL Knee (right)
+    100036: CNTRL Mouth
+    100038: CNTRL Spine
+    100040: 'CNTRL Spine '
+    100042: CNTRL Tail
+    100044: 'CNTRL Tail '
+    100046: earBase(left)
+    100048: earBase(right)
+    100050: earTip(left)
+    100052: earTip(right)
+    100054: elbow(left)
+    100056: elbow(right)
+    100058: fingers(left)
+    100060: fingers(right)
+    100062: FullBodyIK
+    100064: 'FullBodyIK '
+    100066: FullBodyIK  1
+    100068: FullBodyIK  2
+    100070: head
+    100072: hip
+    100074: hippopotamus
+    100076: //RootNode
+    100078: knee(left)
+    100080: knee(right)
+    100082: leg(left)
+    100084: leg(right)
+    100086: Master
+    100088: mouthBottomBase
+    100090: mouthBottomEnd
+    100092: NULL Back
+    100094: NULL Front
+    100096: shoulder(left)
+    100098: shoulder(right)
+    100100: spine
+    100102: spine 1
+    100104: tail
+    100106: tail 1
+    100108: tailBase
+    100110: Texture Group (Delete In Unity)
+    100112: thigh(left)
+    100114: thigh(right)
+    100116: toes(left)
+    100118: toes(right)
+    100120: wrist(left)
+    100122: wrist(right)
+    100124: 'FullBodyIK  '
+    100126: FullBodyIK   1
+    100128: 'spine '
+    100130: 'tail '
+    400000: ankle(left)
+    400002: ankle(right)
+    400004: arm(left)
+    400006: arm(right)
+    400008: chest
+    400010: CNTRL Chest
+    400012: CNTRL Ear (left)
+    400014: CNTRL Ear (right)
+    400016: CNTRL Elbow (left)
+    400018: CNTRL Elbow (right)
+    400020: CNTRL Head
+    400022: CNTRL Hip
+    400024: CNTRL IK Arm (left)
+    400026: CNTRL IK Arm (right)
+    400028: CNTRL IK Leg (left)
+    400030: CNTRL IK Leg (right)
+    400032: CNTRL Knee (left)
+    400034: CNTRL Knee (right)
+    400036: CNTRL Mouth
+    400038: CNTRL Spine
+    400040: 'CNTRL Spine '
+    400042: CNTRL Tail
+    400044: 'CNTRL Tail '
+    400046: earBase(left)
+    400048: earBase(right)
+    400050: earTip(left)
+    400052: earTip(right)
+    400054: elbow(left)
+    400056: elbow(right)
+    400058: fingers(left)
+    400060: fingers(right)
+    400062: FullBodyIK
+    400064: 'FullBodyIK '
+    400066: FullBodyIK  1
+    400068: FullBodyIK  2
+    400070: head
+    400072: hip
+    400074: hippopotamus
+    400076: //RootNode
+    400078: knee(left)
+    400080: knee(right)
+    400082: leg(left)
+    400084: leg(right)
+    400086: Master
+    400088: mouthBottomBase
+    400090: mouthBottomEnd
+    400092: NULL Back
+    400094: NULL Front
+    400096: shoulder(left)
+    400098: shoulder(right)
+    400100: spine
+    400102: spine 1
+    400104: tail
+    400106: tail 1
+    400108: tailBase
+    400110: Texture Group (Delete In Unity)
+    400112: thigh(left)
+    400114: thigh(right)
+    400116: toes(left)
+    400118: toes(right)
+    400120: wrist(left)
+    400122: wrist(right)
+    400124: 'FullBodyIK  '
+    400126: FullBodyIK   1
+    400128: 'spine '
+    400130: 'tail '
+    4300000: hippopotamus
+    7400000: Run
+    9500000: //RootNode
+    13700000: hippopotamus
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: modo_Anim
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: 332dcf0cf4fcb4f209ac6e9bbde9c191
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle(left)
+    100002: ankle(right)
+    100004: arm(left)
+    100006: arm(right)
+    100008: chest
+    100010: chestSway
+    100012: CNTRL Chest
+    100014: CNTRL Chest Sway
+    100016: CNTRL Ear Base (left)
+    100018: CNTRL Ear Base (right)
+    100020: CNTRL Ear Mid (left)
+    100022: CNTRL Ear Mid (right)
+    100024: CNTRL Eblow (right)
+    100026: CNTRL Elbow (left)
+    100028: CNTRL Head
+    100030: CNTRL Hip
+    100032: CNTRL Hip Sway
+    100034: CNTRL IK Arm (left)
+    100036: CNTRL IK Arm (right)
+    100038: CNTRL IK Leg (left)
+    100040: CNTRL IK Leg(right)
+    100042: CNTRL Knee (left)
+    100044: CNTRL Knee (right)
+    100046: CNTRL Mouth
+    100048: CNTRL Neck
+    100050: 'CNTRL Neck '
+    100052: CNTRL Neck  1
+    100054: CNTRL Neck  2
+    100056: CNTRL Spine
+    100058: 'CNTRL Tail '
+    100060: CNTRL Tail  1
+    100062: CNTRL Tail Base
+    100064: CNTRL Tail End
+    100066: earBase(left)
+    100068: earBase(lright)
+    100070: earMid(left)
+    100072: earMid(lright)
+    100074: earTip(left)
+    100076: earTip(right)
+    100078: elbow(left)
+    100080: elbow(right)
+    100082: finger(left)
+    100084: finger(right)
+    100086: FullBodyIK
+    100088: 'FullBodyIK '
+    100090: FullBodyIK  1
+    100092: FullBodyIK  2
+    100094: giraffe
+    100096: //RootNode
+    100098: head
+    100100: hip
+    100102: hipSway
+    100104: jawBase
+    100106: knee(left)
+    100108: knee(right)
+    100110: leg(left)
+    100112: leg(right)
+    100114: lips
+    100116: Master
+    100118: 'neck '
+    100120: neck  1
+    100122: neck  2
+    100124: neckBase
+    100126: nose
+    100128: NULL Back
+    100130: NULL Front
+    100132: shoulder(left)
+    100134: shoulder(right)
+    100136: spine
+    100138: tail
+    100140: 'tail '
+    100142: tail  1
+    100144: tail  2
+    100146: tailBase
+    100148: Texture Group (Delete In Unity)
+    100150: thigh(left)
+    100152: thigh(right)
+    100154: toe(left)
+    100156: toe(right)
+    100158: wrist(left)
+    100160: wrist(right)
+    100162: 'CNTRL Neck  '
+    100164: CNTRL Neck   1
+    100166: 'CNTRL Tail  '
+    100168: 'FullBodyIK  '
+    100170: FullBodyIK   1
+    100172: 'neck  '
+    100174: neck   1
+    100176: 'tail  '
+    100178: tail   1
+    100180: 'CNTRL Neck   '
+    100182: 'FullBodyIK   '
+    100184: 'neck   '
+    100186: 'tail   '
+    400000: ankle(left)
+    400002: ankle(right)
+    400004: arm(left)
+    400006: arm(right)
+    400008: chest
+    400010: chestSway
+    400012: CNTRL Chest
+    400014: CNTRL Chest Sway
+    400016: CNTRL Ear Base (left)
+    400018: CNTRL Ear Base (right)
+    400020: CNTRL Ear Mid (left)
+    400022: CNTRL Ear Mid (right)
+    400024: CNTRL Eblow (right)
+    400026: CNTRL Elbow (left)
+    400028: CNTRL Head
+    400030: CNTRL Hip
+    400032: CNTRL Hip Sway
+    400034: CNTRL IK Arm (left)
+    400036: CNTRL IK Arm (right)
+    400038: CNTRL IK Leg (left)
+    400040: CNTRL IK Leg(right)
+    400042: CNTRL Knee (left)
+    400044: CNTRL Knee (right)
+    400046: CNTRL Mouth
+    400048: CNTRL Neck
+    400050: 'CNTRL Neck '
+    400052: CNTRL Neck  1
+    400054: CNTRL Neck  2
+    400056: CNTRL Spine
+    400058: 'CNTRL Tail '
+    400060: CNTRL Tail  1
+    400062: CNTRL Tail Base
+    400064: CNTRL Tail End
+    400066: earBase(left)
+    400068: earBase(lright)
+    400070: earMid(left)
+    400072: earMid(lright)
+    400074: earTip(left)
+    400076: earTip(right)
+    400078: elbow(left)
+    400080: elbow(right)
+    400082: finger(left)
+    400084: finger(right)
+    400086: FullBodyIK
+    400088: 'FullBodyIK '
+    400090: FullBodyIK  1
+    400092: FullBodyIK  2
+    400094: giraffe
+    400096: //RootNode
+    400098: head
+    400100: hip
+    400102: hipSway
+    400104: jawBase
+    400106: knee(left)
+    400108: knee(right)
+    400110: leg(left)
+    400112: leg(right)
+    400114: lips
+    400116: Master
+    400118: 'neck '
+    400120: neck  1
+    400122: neck  2
+    400124: neckBase
+    400126: nose
+    400128: NULL Back
+    400130: NULL Front
+    400132: shoulder(left)
+    400134: shoulder(right)
+    400136: spine
+    400138: tail
+    400140: 'tail '
+    400142: tail  1
+    400144: tail  2
+    400146: tailBase
+    400148: Texture Group (Delete In Unity)
+    400150: thigh(left)
+    400152: thigh(right)
+    400154: toe(left)
+    400156: toe(right)
+    400158: wrist(left)
+    400160: wrist(right)
+    400162: 'CNTRL Neck  '
+    400164: CNTRL Neck   1
+    400166: 'CNTRL Tail  '
+    400168: 'FullBodyIK  '
+    400170: FullBodyIK   1
+    400172: 'neck  '
+    400174: neck   1
+    400176: 'tail  '
+    400178: tail   1
+    400180: 'CNTRL Neck   '
+    400182: 'FullBodyIK   '
+    400184: 'neck   '
+    400186: 'tail   '
+    4300000: giraffe
+    7400000: EatH
+    9500000: //RootNode
+    13700000: giraffe
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: EatH
+      takeName: modo_Anim
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: hip
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

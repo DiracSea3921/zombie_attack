@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 8c71ee80f18bc4032b194a58a1c50418
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle (left)
+    100002: ankle (right)
+    100004: arm (left)
+    100006: arm (right)
+    100008: //RootNode
+    100010: baboon
+    100012: chest
+    100014: earBase (left)
+    100016: earBase (right)
+    100018: earTip (left)
+    100020: earTip (right)
+    100022: elbow (left)
+    100024: elbow (right)
+    100026: finger (left)
+    100028: finger (right)
+    100030: FullBodyIK
+    100032: 'FullBodyIK '
+    100034: 'FullBodyIK  '
+    100036: 'FullBodyIK   '
+    100038: head
+    100040: hip
+    100042: knee (left)
+    100044: knee (right)
+    100046: leg (left)
+    100048: leg (right)
+    100050: lips
+    100052: mouth
+    100054: shoulder (left)
+    100056: shoulder (right)
+    100058: spine
+    100060: tail
+    100062: 'tail '
+    100064: 'tail  '
+    100066: 'tail   '
+    100068: 'tail    '
+    100070: tail     1
+    100072: tail     2
+    100074: tailBase
+    100076: thigh (eft)
+    100078: thigh (right)
+    100080: toes (left)
+    100082: toes (right)
+    100084: wrist (left)
+    100086: wrist (right)
+    100088: Camera
+    100090: Master
+    100092: 'tail     '
+    100094: tail      1
+    400000: ankle (left)
+    400002: ankle (right)
+    400004: arm (left)
+    400006: arm (right)
+    400008: //RootNode
+    400010: baboon
+    400012: chest
+    400014: earBase (left)
+    400016: earBase (right)
+    400018: earTip (left)
+    400020: earTip (right)
+    400022: elbow (left)
+    400024: elbow (right)
+    400026: finger (left)
+    400028: finger (right)
+    400030: FullBodyIK
+    400032: 'FullBodyIK '
+    400034: 'FullBodyIK  '
+    400036: 'FullBodyIK   '
+    400038: head
+    400040: hip
+    400042: knee (left)
+    400044: knee (right)
+    400046: leg (left)
+    400048: leg (right)
+    400050: lips
+    400052: mouth
+    400054: shoulder (left)
+    400056: shoulder (right)
+    400058: spine
+    400060: tail
+    400062: 'tail '
+    400064: 'tail  '
+    400066: 'tail   '
+    400068: 'tail    '
+    400070: tail     1
+    400072: tail     2
+    400074: tailBase
+    400076: thigh (eft)
+    400078: thigh (right)
+    400080: toes (left)
+    400082: toes (right)
+    400084: wrist (left)
+    400086: wrist (right)
+    400088: Camera
+    400090: Master
+    400092: 'tail     '
+    400094: tail      1
+    4300000: baboon
+    9500000: //RootNode
+    13700000: baboon
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

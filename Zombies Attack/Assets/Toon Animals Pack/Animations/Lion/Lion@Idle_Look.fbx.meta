@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 728cffbefd13e4fd1ab0435a763b7630
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ankle(left)
+    100002: ankle(right)
+    100004: arm(left)
+    100006: arm(right)
+    100008: CNTRL Chest
+    100010: CNTRL Ear(left)
+    100012: CNTRL Ear(right)
+    100014: CNTRL Elbow(left)
+    100016: CNTRL Elbow(right)
+    100018: CNTRL Finger(right)
+    100020: CNTRL Fingers(left)
+    100022: CNTRL Head
+    100024: CNTRL Hip
+    100026: CNTRL IK Arm(left)
+    100028: CNTRL IK Arm(right)
+    100030: CNTRL IK Lef(left)
+    100032: CNTRL IK Leg(right)
+    100034: CNTRL Knee(left)
+    100036: CNTRL Knee(right)
+    100038: CNTRL Mouth
+    100040: CNTRL Neck
+    100042: CNTRL Spine
+    100044: CNTRL Spine 1
+    100046: CNTRL Tail
+    100048: CNTRL Tail 1
+    100050: CNTRL Tail 2
+    100052: CNTRL Tail 3
+    100054: CNTRL Toes(left)
+    100056: CNTRL Toes(right)
+    100058: earBase(left)
+    100060: earBase(right)
+    100062: earTip(left)
+    100064: earTip(right)
+    100066: elbow(left)
+    100068: elbow(right)
+    100070: finger(left)
+    100072: finger(right)
+    100074: foot(left)
+    100076: foot(right)
+    100078: FullBodyIK
+    100080: 'FullBodyIK '
+    100082: FullBodyIK  1
+    100084: FullBodyIK  2
+    100086: hand(left)
+    100088: hand(right)
+    100090: head
+    100092: hip
+    100094: knee(left)
+    100096: knee(right)
+    100098: leg(left)
+    100100: leg(right)
+    100102: lion
+    100104: //RootNode
+    100106: Master
+    100108: mouthBottom
+    100110: mouthBottom(end)
+    100112: mouthTop
+    100114: mouthTop(end)
+    100116: neck
+    100118: NULL Back
+    100120: NULL Front
+    100122: shoulder(left)
+    100124: shoulder(right)
+    100126: spine
+    100128: spine 1
+    100130: spine 2
+    100132: tail
+    100134: tail 1
+    100136: tail 2
+    100138: tail 3
+    100140: tail 4
+    100142: Texture Group (Delete In Uniy)
+    100144: thigh(left)
+    100146: thigh(right)
+    100148: toes(left)
+    100150: toes(right)
+    100152: wrist(left)
+    100154: wrist(right)
+    100156: 'FullBodyIK  '
+    100158: FullBodyIK   1
+    100160: 'spine '
+    100162: spine  1
+    100164: 'tail '
+    100166: tail  1
+    100168: tail  2
+    100170: tail  3
+    400000: ankle(left)
+    400002: ankle(right)
+    400004: arm(left)
+    400006: arm(right)
+    400008: CNTRL Chest
+    400010: CNTRL Ear(left)
+    400012: CNTRL Ear(right)
+    400014: CNTRL Elbow(left)
+    400016: CNTRL Elbow(right)
+    400018: CNTRL Finger(right)
+    400020: CNTRL Fingers(left)
+    400022: CNTRL Head
+    400024: CNTRL Hip
+    400026: CNTRL IK Arm(left)
+    400028: CNTRL IK Arm(right)
+    400030: CNTRL IK Lef(left)
+    400032: CNTRL IK Leg(right)
+    400034: CNTRL Knee(left)
+    400036: CNTRL Knee(right)
+    400038: CNTRL Mouth
+    400040: CNTRL Neck
+    400042: CNTRL Spine
+    400044: CNTRL Spine 1
+    400046: CNTRL Tail
+    400048: CNTRL Tail 1
+    400050: CNTRL Tail 2
+    400052: CNTRL Tail 3
+    400054: CNTRL Toes(left)
+    400056: CNTRL Toes(right)
+    400058: earBase(left)
+    400060: earBase(right)
+    400062: earTip(left)
+    400064: earTip(right)
+    400066: elbow(left)
+    400068: elbow(right)
+    400070: finger(left)
+    400072: finger(right)
+    400074: foot(left)
+    400076: foot(right)
+    400078: FullBodyIK
+    400080: 'FullBodyIK '
+    400082: FullBodyIK  1
+    400084: FullBodyIK  2
+    400086: hand(left)
+    400088: hand(right)
+    400090: head
+    400092: hip
+    400094: knee(left)
+    400096: knee(right)
+    400098: leg(left)
+    400100: leg(right)
+    400102: lion
+    400104: //RootNode
+    400106: Master
+    400108: mouthBottom
+    400110: mouthBottom(end)
+    400112: mouthTop
+    400114: mouthTop(end)
+    400116: neck
+    400118: NULL Back
+    400120: NULL Front
+    400122: shoulder(left)
+    400124: shoulder(right)
+    400126: spine
+    400128: spine 1
+    400130: spine 2
+    400132: tail
+    400134: tail 1
+    400136: tail 2
+    400138: tail 3
+    400140: tail 4
+    400142: Texture Group (Delete In Uniy)
+    400144: thigh(left)
+    400146: thigh(right)
+    400148: toes(left)
+    400150: toes(right)
+    400152: wrist(left)
+    400154: wrist(right)
+    400156: 'FullBodyIK  '
+    400158: FullBodyIK   1
+    400160: 'spine '
+    400162: spine  1
+    400164: 'tail '
+    400166: tail  1
+    400168: tail  2
+    400170: tail  3
+    4300000: lion
+    7400000: Idle_Look
+    9500000: //RootNode
+    13700000: lion
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle_Look
+      takeName: modo_Anim
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: hip
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

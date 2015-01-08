@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: dc4b89b8922c8db478e8210c29c3fa80
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: goblin_kezan_conveyorbelt_01_[0]_Stand_2871
+    100004: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1
+    100006: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_0
+    100008: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_1
+    100010: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_10
+    100012: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_11
+    100014: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_12
+    100016: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_13
+    100018: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_14
+    100020: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_15
+    100022: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_16
+    100024: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_17
+    100026: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_18
+    100028: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_19
+    100030: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_2
+    100032: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_20
+    100034: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_21
+    100036: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_22
+    100038: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_23
+    100040: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_24
+    100042: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_3
+    100044: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_4
+    100046: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_5
+    100048: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_6
+    100050: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_7
+    100052: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_8
+    100054: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_9
+    400000: //RootNode
+    400002: goblin_kezan_conveyorbelt_01_[0]_Stand_2871
+    400004: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1
+    400006: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_0
+    400008: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_1
+    400010: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_10
+    400012: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_11
+    400014: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_12
+    400016: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_13
+    400018: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_14
+    400020: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_15
+    400022: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_16
+    400024: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_17
+    400026: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_18
+    400028: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_19
+    400030: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_2
+    400032: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_20
+    400034: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_21
+    400036: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_22
+    400038: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_23
+    400040: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_24
+    400042: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_3
+    400044: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_4
+    400046: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_5
+    400048: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_6
+    400050: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_7
+    400052: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_8
+    400054: goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_9
+    4300000: goblin_kezan_conveyorbelt_01_[0]_Stand_2871
+    7400000: Stand
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: goblin_kezan_conveyorbelt_01_[0]_Stand_2871
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stand
+      takeName: Stand
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_0
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_0/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_21
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_1
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_2
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_3
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_4
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_5
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_6
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_7
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_8
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_9
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_10
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_11
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_12
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_13
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_14
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_15
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_16
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_17
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_18
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_19
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_20
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_22
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_23
+        weight: 1
+      - path: goblin_kezan_conveyorbelt_01_[0]_Stand_2871 1/goblin_kezan_conveyorbelt_01_[0]_Stand_2871_bone_24
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
